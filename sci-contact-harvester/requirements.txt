@@ -1,0 +1,12 @@
+python-dotenv
+requests
+beautifulsoup4
+selenium
+playwright
+PyGithub
+anthropic
+serpapi
+pandas
+schedule
+streamlit
+lxml
