@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dr. Ada Raman",
+    "email": "ada.raman@example.edu",
+    "institution": "Example Institute of Technology",
+    "domain": "Computer Science"
+  },
+  {
+    "name": "Dr. Leo Fischer",
+    "email": "leo.fischer@example.edu",
+    "institution": "Example Center for Quantum Research",
+    "domain": "Physics"
+  },
+  {
+    "name": "Dr. Maya Chen",
+    "email": "maya.chen@example.edu",
+    "institution": "Example Biomedical University",
+    "domain": "Neuroscience"
+  }
+]
